@@ -13,14 +13,14 @@ name                     : "Abdallah Moussawi"
 description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "abdallah95/abdallah95.github.io"
+repository               : "amoussawi/amoussawi.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : abdallah95 # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : amoussawi # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "abdallah95"
+  github           : "amoussawi"
   google_plus      :
   keybase          :
   instagram        :
