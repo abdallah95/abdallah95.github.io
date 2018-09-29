@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Abdallah Moussawi"
-  avatar           : "/assets/images/avatar.jpg"
+  avatar           : "https://github.com/amoussawi.png?size=500"
   bio              : "Software Engineer. Machine Learning Enthusiast. Interested in Deep Learning."
   location         : "Beirut, Lebanon"
   email            : "abdallah.moussawi@gmail.com"
@@ -177,7 +177,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -243,3 +243,7 @@ defaults:
       comments: false
       share: true
       related: true
+
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"

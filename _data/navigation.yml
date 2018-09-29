@@ -1,11 +1,11 @@
 # main links
 main:
-    - title: "Blog"
-      url: /blog
-    # - title: "CV"
-    #   url: /assets/cv.pdf
-    - title: "About"
-      url: /about
+    # - title: "Blog"
+    #   url: /blog
+    - title: "Resume"
+      url: https://www.dropbox.com/s/4ua8xhw34wvj3xt/Abdallah%20Moussawi%20-%20CV.pdf?dl=0&raw=1
+    # - title: "About"
+    #   url: /about
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
