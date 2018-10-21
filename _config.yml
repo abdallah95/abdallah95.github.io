@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abdallah Moussawi"
+  name             : ""
   avatar           : "https://github.com/amoussawi.png?size=500"
-  bio              : "Software Engineer. Machine Learning Enthusiast. Interested in Deep Learning."
+  bio              : ""
   location         : "Beirut, Lebanon"
-  email            : "abdallah.moussawi@gmail.com"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "abdallahmoussawi"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -247,3 +247,15 @@ defaults:
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/amoussawi"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/abdallahmoussawi/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/abdallah_m95"
